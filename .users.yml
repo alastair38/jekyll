@@ -3,3 +3,7 @@ users:
   name: AJC
   email: alastair@alastaircox.com
   hash: $2a$10$ax.U83esYv9HbMO.dwq4QO58ntV9yF5Kf3vTrd1SEvgA4KOkFjaxy
+- id: 9443d1e0-3fb9-4850-8192-99b8d7f1cd76
+  name: Bob
+  email: alastair@thesocial.org.uk
+  hash: $2a$10$.wFi0ESgUVYD206AeKtYUeBdafekVndDFvYoh6ZiEOFldE76rfPlu
